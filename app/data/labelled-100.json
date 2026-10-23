@@ -1,0 +1,602 @@
+[
+  {
+    "id": "T001",
+    "ticket": "I have a question about the format of my monthly invoice.",
+    "category": "billing",
+    "priority": "low"
+  },
+  {
+    "id": "T002",
+    "ticket": "I was charged twice for my subscription this month. Please check the duplicate payment.",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "id": "T003",
+    "ticket": "Our company account has been charged an unexpected large amount and finance needs a correction today.",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "id": "T004",
+    "ticket": "The page alignment looks wrong on my dashboard.",
+    "category": "technical",
+    "priority": "low"
+  },
+  {
+    "id": "T005",
+    "ticket": "The export button fails with an error whenever I download a report.",
+    "category": "technical",
+    "priority": "medium"
+  },
+  {
+    "id": "T006",
+    "ticket": "Several users are receiving HTTP 500 errors after the latest release.",
+    "category": "technical",
+    "priority": "high"
+  },
+  {
+    "id": "T007",
+    "ticket": "Production is completely down and customers cannot check out following the deployment.",
+    "category": "technical",
+    "priority": "critical"
+  },
+  {
+    "id": "T008",
+    "ticket": "How can I change my display name?",
+    "category": "account",
+    "priority": "low"
+  },
+  {
+    "id": "T009",
+    "ticket": "I cannot reset my password because the reset email never arrives.",
+    "category": "account",
+    "priority": "medium"
+  },
+  {
+    "id": "T010",
+    "ticket": "Our administrator is locked out and the team cannot access the workspace.",
+    "category": "account",
+    "priority": "high"
+  },
+  {
+    "id": "T011",
+    "ticket": "We suspect an attacker has taken over our administrator account. Please secure it immediately.",
+    "category": "account",
+    "priority": "critical"
+  },
+  {
+    "id": "T012",
+    "ticket": "I would like to know the return window for an unused item.",
+    "category": "returns",
+    "priority": "low"
+  },
+  {
+    "id": "T013",
+    "ticket": "Please help me return an item that arrived in the wrong size.",
+    "category": "returns",
+    "priority": "medium"
+  },
+  {
+    "id": "T014",
+    "ticket": "A refund promised last week has not arrived and the customer is escalating.",
+    "category": "returns",
+    "priority": "high"
+  },
+  {
+    "id": "T015",
+    "ticket": "Where can I find the tracking link for my order?",
+    "category": "shipping",
+    "priority": "low"
+  },
+  {
+    "id": "T016",
+    "ticket": "My parcel is two days late and the tracking page has not updated.",
+    "category": "shipping",
+    "priority": "medium"
+  },
+  {
+    "id": "T017",
+    "ticket": "A time-sensitive business shipment is missing and our launch depends on it.",
+    "category": "shipping",
+    "priority": "high"
+  },
+  {
+    "id": "T018",
+    "ticket": "Could you send information about available plans?",
+    "category": "sales",
+    "priority": "low"
+  },
+  {
+    "id": "T019",
+    "ticket": "We need to understand the price difference between the team plans.",
+    "category": "sales",
+    "priority": "medium"
+  },
+  {
+    "id": "T020",
+    "ticket": "I have feedback about the product onboarding experience.",
+    "category": "other",
+    "priority": "medium"
+  },
+  {
+    "id": "T021",
+    "ticket": "I have a question about the format of my monthly invoice. This started recently.",
+    "category": "billing",
+    "priority": "low"
+  },
+  {
+    "id": "T022",
+    "ticket": "I was charged twice for my subscription this month. Please check the duplicate payment. This started recently.",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "id": "T023",
+    "ticket": "Our company account has been charged an unexpected large amount and finance needs a correction today. This started recently.",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "id": "T024",
+    "ticket": "The page alignment looks wrong on my dashboard. This started recently.",
+    "category": "technical",
+    "priority": "low"
+  },
+  {
+    "id": "T025",
+    "ticket": "The export button fails with an error whenever I download a report. This started recently.",
+    "category": "technical",
+    "priority": "medium"
+  },
+  {
+    "id": "T026",
+    "ticket": "Several users are receiving HTTP 500 errors after the latest release. This started recently.",
+    "category": "technical",
+    "priority": "high"
+  },
+  {
+    "id": "T027",
+    "ticket": "Production is completely down and customers cannot check out following the deployment. This started recently.",
+    "category": "technical",
+    "priority": "critical"
+  },
+  {
+    "id": "T028",
+    "ticket": "How can I change my display name? This started recently.",
+    "category": "account",
+    "priority": "low"
+  },
+  {
+    "id": "T029",
+    "ticket": "I cannot reset my password because the reset email never arrives. This started recently.",
+    "category": "account",
+    "priority": "medium"
+  },
+  {
+    "id": "T030",
+    "ticket": "Our administrator is locked out and the team cannot access the workspace. This started recently.",
+    "category": "account",
+    "priority": "high"
+  },
+  {
+    "id": "T031",
+    "ticket": "We suspect an attacker has taken over our administrator account. Please secure it immediately. This started recently.",
+    "category": "account",
+    "priority": "critical"
+  },
+  {
+    "id": "T032",
+    "ticket": "I would like to know the return window for an unused item. This started recently.",
+    "category": "returns",
+    "priority": "low"
+  },
+  {
+    "id": "T033",
+    "ticket": "Please help me return an item that arrived in the wrong size. This started recently.",
+    "category": "returns",
+    "priority": "medium"
+  },
+  {
+    "id": "T034",
+    "ticket": "A refund promised last week has not arrived and the customer is escalating. This started recently.",
+    "category": "returns",
+    "priority": "high"
+  },
+  {
+    "id": "T035",
+    "ticket": "Where can I find the tracking link for my order? This started recently.",
+    "category": "shipping",
+    "priority": "low"
+  },
+  {
+    "id": "T036",
+    "ticket": "My parcel is two days late and the tracking page has not updated. This started recently.",
+    "category": "shipping",
+    "priority": "medium"
+  },
+  {
+    "id": "T037",
+    "ticket": "A time-sensitive business shipment is missing and our launch depends on it. This started recently.",
+    "category": "shipping",
+    "priority": "high"
+  },
+  {
+    "id": "T038",
+    "ticket": "Could you send information about available plans? This started recently.",
+    "category": "sales",
+    "priority": "low"
+  },
+  {
+    "id": "T039",
+    "ticket": "We need to understand the price difference between the team plans. This started recently.",
+    "category": "sales",
+    "priority": "medium"
+  },
+  {
+    "id": "T040",
+    "ticket": "I have feedback about the product onboarding experience. This started recently.",
+    "category": "other",
+    "priority": "medium"
+  },
+  {
+    "id": "T041",
+    "ticket": "I have a question about the format of my monthly invoice. Please advise on the next steps.",
+    "category": "billing",
+    "priority": "low"
+  },
+  {
+    "id": "T042",
+    "ticket": "I was charged twice for my subscription this month. Please check the duplicate payment. Please advise on the next steps.",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "id": "T043",
+    "ticket": "Our company account has been charged an unexpected large amount and finance needs a correction today. Please advise on the next steps.",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "id": "T044",
+    "ticket": "The page alignment looks wrong on my dashboard. Please advise on the next steps.",
+    "category": "technical",
+    "priority": "low"
+  },
+  {
+    "id": "T045",
+    "ticket": "The export button fails with an error whenever I download a report. Please advise on the next steps.",
+    "category": "technical",
+    "priority": "medium"
+  },
+  {
+    "id": "T046",
+    "ticket": "Several users are receiving HTTP 500 errors after the latest release. Please advise on the next steps.",
+    "category": "technical",
+    "priority": "high"
+  },
+  {
+    "id": "T047",
+    "ticket": "Production is completely down and customers cannot check out following the deployment. Please advise on the next steps.",
+    "category": "technical",
+    "priority": "critical"
+  },
+  {
+    "id": "T048",
+    "ticket": "How can I change my display name? Please advise on the next steps.",
+    "category": "account",
+    "priority": "low"
+  },
+  {
+    "id": "T049",
+    "ticket": "I cannot reset my password because the reset email never arrives. Please advise on the next steps.",
+    "category": "account",
+    "priority": "medium"
+  },
+  {
+    "id": "T050",
+    "ticket": "Our administrator is locked out and the team cannot access the workspace. Please advise on the next steps.",
+    "category": "account",
+    "priority": "high"
+  },
+  {
+    "id": "T051",
+    "ticket": "We suspect an attacker has taken over our administrator account. Please secure it immediately. Please advise on the next steps.",
+    "category": "account",
+    "priority": "critical"
+  },
+  {
+    "id": "T052",
+    "ticket": "I would like to know the return window for an unused item. Please advise on the next steps.",
+    "category": "returns",
+    "priority": "low"
+  },
+  {
+    "id": "T053",
+    "ticket": "Please help me return an item that arrived in the wrong size. Please advise on the next steps.",
+    "category": "returns",
+    "priority": "medium"
+  },
+  {
+    "id": "T054",
+    "ticket": "A refund promised last week has not arrived and the customer is escalating. Please advise on the next steps.",
+    "category": "returns",
+    "priority": "high"
+  },
+  {
+    "id": "T055",
+    "ticket": "Where can I find the tracking link for my order? Please advise on the next steps.",
+    "category": "shipping",
+    "priority": "low"
+  },
+  {
+    "id": "T056",
+    "ticket": "My parcel is two days late and the tracking page has not updated. Please advise on the next steps.",
+    "category": "shipping",
+    "priority": "medium"
+  },
+  {
+    "id": "T057",
+    "ticket": "A time-sensitive business shipment is missing and our launch depends on it. Please advise on the next steps.",
+    "category": "shipping",
+    "priority": "high"
+  },
+  {
+    "id": "T058",
+    "ticket": "Could you send information about available plans? Please advise on the next steps.",
+    "category": "sales",
+    "priority": "low"
+  },
+  {
+    "id": "T059",
+    "ticket": "We need to understand the price difference between the team plans. Please advise on the next steps.",
+    "category": "sales",
+    "priority": "medium"
+  },
+  {
+    "id": "T060",
+    "ticket": "I have feedback about the product onboarding experience. Please advise on the next steps.",
+    "category": "other",
+    "priority": "medium"
+  },
+  {
+    "id": "T061",
+    "ticket": "I have a question about the format of my monthly invoice. I have already tried again and the issue persists.",
+    "category": "billing",
+    "priority": "low"
+  },
+  {
+    "id": "T062",
+    "ticket": "I was charged twice for my subscription this month. Please check the duplicate payment. I have already tried again and the issue persists.",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "id": "T063",
+    "ticket": "Our company account has been charged an unexpected large amount and finance needs a correction today. I have already tried again and the issue persists.",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "id": "T064",
+    "ticket": "The page alignment looks wrong on my dashboard. I have already tried again and the issue persists.",
+    "category": "technical",
+    "priority": "low"
+  },
+  {
+    "id": "T065",
+    "ticket": "The export button fails with an error whenever I download a report. I have already tried again and the issue persists.",
+    "category": "technical",
+    "priority": "medium"
+  },
+  {
+    "id": "T066",
+    "ticket": "Several users are receiving HTTP 500 errors after the latest release. I have already tried again and the issue persists.",
+    "category": "technical",
+    "priority": "high"
+  },
+  {
+    "id": "T067",
+    "ticket": "Production is completely down and customers cannot check out following the deployment. I have already tried again and the issue persists.",
+    "category": "technical",
+    "priority": "critical"
+  },
+  {
+    "id": "T068",
+    "ticket": "How can I change my display name? I have already tried again and the issue persists.",
+    "category": "account",
+    "priority": "low"
+  },
+  {
+    "id": "T069",
+    "ticket": "I cannot reset my password because the reset email never arrives. I have already tried again and the issue persists.",
+    "category": "account",
+    "priority": "medium"
+  },
+  {
+    "id": "T070",
+    "ticket": "Our administrator is locked out and the team cannot access the workspace. I have already tried again and the issue persists.",
+    "category": "account",
+    "priority": "high"
+  },
+  {
+    "id": "T071",
+    "ticket": "We suspect an attacker has taken over our administrator account. Please secure it immediately. I have already tried again and the issue persists.",
+    "category": "account",
+    "priority": "critical"
+  },
+  {
+    "id": "T072",
+    "ticket": "I would like to know the return window for an unused item. I have already tried again and the issue persists.",
+    "category": "returns",
+    "priority": "low"
+  },
+  {
+    "id": "T073",
+    "ticket": "Please help me return an item that arrived in the wrong size. I have already tried again and the issue persists.",
+    "category": "returns",
+    "priority": "medium"
+  },
+  {
+    "id": "T074",
+    "ticket": "A refund promised last week has not arrived and the customer is escalating. I have already tried again and the issue persists.",
+    "category": "returns",
+    "priority": "high"
+  },
+  {
+    "id": "T075",
+    "ticket": "Where can I find the tracking link for my order? I have already tried again and the issue persists.",
+    "category": "shipping",
+    "priority": "low"
+  },
+  {
+    "id": "T076",
+    "ticket": "My parcel is two days late and the tracking page has not updated. I have already tried again and the issue persists.",
+    "category": "shipping",
+    "priority": "medium"
+  },
+  {
+    "id": "T077",
+    "ticket": "A time-sensitive business shipment is missing and our launch depends on it. I have already tried again and the issue persists.",
+    "category": "shipping",
+    "priority": "high"
+  },
+  {
+    "id": "T078",
+    "ticket": "Could you send information about available plans? I have already tried again and the issue persists.",
+    "category": "sales",
+    "priority": "low"
+  },
+  {
+    "id": "T079",
+    "ticket": "We need to understand the price difference between the team plans. I have already tried again and the issue persists.",
+    "category": "sales",
+    "priority": "medium"
+  },
+  {
+    "id": "T080",
+    "ticket": "I have feedback about the product onboarding experience. I have already tried again and the issue persists.",
+    "category": "other",
+    "priority": "medium"
+  },
+  {
+    "id": "T081",
+    "ticket": "I have a question about the format of my monthly invoice. This is affecting my team.",
+    "category": "billing",
+    "priority": "low"
+  },
+  {
+    "id": "T082",
+    "ticket": "I was charged twice for my subscription this month. Please check the duplicate payment. This is affecting my team.",
+    "category": "billing",
+    "priority": "medium"
+  },
+  {
+    "id": "T083",
+    "ticket": "Our company account has been charged an unexpected large amount and finance needs a correction today. This is affecting my team.",
+    "category": "billing",
+    "priority": "high"
+  },
+  {
+    "id": "T084",
+    "ticket": "The page alignment looks wrong on my dashboard. This is affecting my team.",
+    "category": "technical",
+    "priority": "low"
+  },
+  {
+    "id": "T085",
+    "ticket": "The export button fails with an error whenever I download a report. This is affecting my team.",
+    "category": "technical",
+    "priority": "medium"
+  },
+  {
+    "id": "T086",
+    "ticket": "Several users are receiving HTTP 500 errors after the latest release. This is affecting my team.",
+    "category": "technical",
+    "priority": "high"
+  },
+  {
+    "id": "T087",
+    "ticket": "Production is completely down and customers cannot check out following the deployment. This is affecting my team.",
+    "category": "technical",
+    "priority": "critical"
+  },
+  {
+    "id": "T088",
+    "ticket": "How can I change my display name? This is affecting my team.",
+    "category": "account",
+    "priority": "low"
+  },
+  {
+    "id": "T089",
+    "ticket": "I cannot reset my password because the reset email never arrives. This is affecting my team.",
+    "category": "account",
+    "priority": "medium"
+  },
+  {
+    "id": "T090",
+    "ticket": "Our administrator is locked out and the team cannot access the workspace. This is affecting my team.",
+    "category": "account",
+    "priority": "high"
+  },
+  {
+    "id": "T091",
+    "ticket": "We suspect an attacker has taken over our administrator account. Please secure it immediately. This is affecting my team.",
+    "category": "account",
+    "priority": "critical"
+  },
+  {
+    "id": "T092",
+    "ticket": "I would like to know the return window for an unused item. This is affecting my team.",
+    "category": "returns",
+    "priority": "low"
+  },
+  {
+    "id": "T093",
+    "ticket": "Please help me return an item that arrived in the wrong size. This is affecting my team.",
+    "category": "returns",
+    "priority": "medium"
+  },
+  {
+    "id": "T094",
+    "ticket": "A refund promised last week has not arrived and the customer is escalating. This is affecting my team.",
+    "category": "returns",
+    "priority": "high"
+  },
+  {
+    "id": "T095",
+    "ticket": "Where can I find the tracking link for my order? This is affecting my team.",
+    "category": "shipping",
+    "priority": "low"
+  },
+  {
+    "id": "T096",
+    "ticket": "My parcel is two days late and the tracking page has not updated. This is affecting my team.",
+    "category": "shipping",
+    "priority": "medium"
+  },
+  {
+    "id": "T097",
+    "ticket": "A time-sensitive business shipment is missing and our launch depends on it. This is affecting my team.",
+    "category": "shipping",
+    "priority": "high"
+  },
+  {
+    "id": "T098",
+    "ticket": "Could you send information about available plans? This is affecting my team.",
+    "category": "sales",
+    "priority": "low"
+  },
+  {
+    "id": "T099",
+    "ticket": "We need to understand the price difference between the team plans. This is affecting my team.",
+    "category": "sales",
+    "priority": "medium"
+  },
+  {
+    "id": "T100",
+    "ticket": "I have feedback about the product onboarding experience. This is affecting my team.",
+    "category": "other",
+    "priority": "medium"
+  }
+]
